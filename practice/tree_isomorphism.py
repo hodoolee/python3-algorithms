@@ -1,4 +1,5 @@
 # http://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
+# solution:
 
 class Node:
     def __init__(self, data):
@@ -27,7 +28,6 @@ def is_isomorphic(r1, r2):
            )
 
 if __name__ == "__main__":
-    # Driver program to test above function
     r1 = Node(1)
     r1.left = Node(2)
     r1.right = Node(3)
