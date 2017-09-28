@@ -1,5 +1,5 @@
 # http://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
-# solution:
+# Solution:
 
 class Node:
     def __init__(self, data):
