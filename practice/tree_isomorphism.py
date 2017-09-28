@@ -46,4 +46,4 @@ if __name__ == "__main__":
     r2.right.right.left = Node(8)
     r2.right.right.right  = Node(7)
 
-    print(is_isomorphic(n1, n2))
+    print(is_isomorphic(r1, r2))

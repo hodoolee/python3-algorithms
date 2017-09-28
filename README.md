@@ -1,10 +1,13 @@
 # Algorithms written in python3 
 This is my implementation of the data structure with python3.
 
-#### Data Structures
+## Practice
+My solutions for [GeeksforGeeks](http://practice.geeksforgeeks.org/company/Amazon/)
+
+## Data Structures
 - Arrays
 - Stacks
 
-#### Sorting
+## Sorting
 
-#### Trees
+## Trees
